@@ -1,0 +1,1 @@
+# rust-docker-cc-distroless-hello-world
